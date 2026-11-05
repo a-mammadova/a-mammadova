@@ -3,16 +3,12 @@
 <img align="left" src="./devil-7.gif" width="180"/>
 <p align="right"> im interested in software engineering and computer systems
 i want to understand what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
-</p>
-<p>
 
-</p>
-<p align="left">
 ### languages
 `lua` usually for games
 
 `java` everything else
-</p>
+
 ### what im working on rn
 
 -- experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip) (will make it public soon)
