@@ -1,7 +1,7 @@
 # <p align="center">hi, it's leslie</p>
 
 <img align="left" src="./devil-7.gif" width="180"/>
-<p align="right"> im interested in software engineering and computer systems
+<p align="left"> im interested in software engineering and computer systems
 i want to understand what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
 
 ### languages
