@@ -2,7 +2,7 @@
 
 <img align="left" src="./devil.gif" width="180"/>
 <p align="left"> im interested in software engineering and computer systems
-i want to understand what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
+i like understanding what's happening under all that abstractions, otherwise i dont feel like im actually learning something
 
 ### languages
 `lua` for games, `java` everything else
