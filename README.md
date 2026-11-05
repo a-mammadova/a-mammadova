@@ -1,6 +1,7 @@
 # <p align="center">hi, it's leslie</p>
 
 <img align="left" src="./devil.gif" width="180"/>
+<p align="left">just a ce student, i dont like labels. </p>
 <p align="left"> im interested in software engineering and computer systems
 i like understanding what's happening under all that abstractions, otherwise i dont feel like im actually learning something
 
