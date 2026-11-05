@@ -1,16 +1,16 @@
 # <p align="center">hi, it's leslie</p>
 
 <img align="left" src="./devil-7.gif" width="190"/>
-<p align="right"> im a computer engineering student interested in software engineering and computer systems
-i prefer understanding what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
+<p align="right"> im interested in software engineering and computer systems
+i want to understand what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
 </p>
 
-
+<p align="right">
 ### languages
 `lua` usually for games
 
 `java` everything else
-
+</p>
 ### what im working on rn
 
 -- experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip) (will make it public soon)
