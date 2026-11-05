@@ -1,4 +1,4 @@
-# <p align="center">hi, im leslie</p>
+# <p align="center">hi, it's leslie</p>
 
 <img align="right" src="./devil.gif" width="190"/>
 </p>
@@ -8,7 +8,13 @@ i prefer understanding what's happening under the hood rather than learning abst
 
 
 ### languages
-`lua` usually for games\n `java` everything else
+`lua` usually for games
+
+`java` everything else
+
+### what im working on rn
+
+-- recently, im experimenting with socket programming via [linkzip (private for now)](github.com/a-mammadova/linkzip)
 
 
 
