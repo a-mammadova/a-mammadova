@@ -11,6 +11,7 @@ i like understanding what's happening under all those abstractions, otherwise i 
 ### what im working on rn
 
 -- currently, experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip) (will make it public soon)
+
 -- researching on computer systems overall
 
 ### projects
