@@ -19,17 +19,13 @@ i prefer understanding what's happening under the hood rather than learning abst
 ### projects
 
 -- [ring](https://github.com/a-mammadova/ring)
-
 -- [slot-machine](https://github.com/a-mammadova/slot-machine)
-
 -- [bad-game](https://github.com/a-mammadova/bad-game)
-
 -- [ai-career-prep](https://github.com/a-mammadova/ai-career-prep)
 
 #### private repos for now but coming soon
 
 -- [linkzip](https://github.com/a-mammadova/linzkip)
-
 -- [second-date](https://github.com/a-mammadova/second-date)
 
 
