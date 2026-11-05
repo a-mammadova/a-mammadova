@@ -1,16 +1,15 @@
 # hi, im leslie
 
-<p align="right">
-  <img src="./devil.gif" width="180"/>
+<img align="right" src="./devil.gif" width="190"/>
 </p>
 <p align="left"> im a computer engineering student interested in software engineering and computer systems
-i prefer understanding what's happening under the hood rather than learning abstractions, otherwise i dont feel like "learning"
+i prefer understanding what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
 </p>
 
 
 ### languages
-`lua` usually for games
-`java` everything else
+`lua` usually for games\n `java` everything else
 
-### what im working on 
+
+
 
