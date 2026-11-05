@@ -3,14 +3,15 @@
 <img align="left" src="./devil.gif" width="180"/>
 <p align="left">just a ce student, i dont like labels. </p>
 <p align="left"> im interested in software engineering and computer systems and 
-i like understanding what's happening under all that abstractions, otherwise i dont feel like im actually learning something
+i like understanding what's happening under all those abstractions, otherwise i dont feel like im actually learning something. i like drawing for games too.
 
 ### languages
-`lua` for games, `java` everything else
+`lua` for games, `java` for everything else
 
 ### what im working on rn
 
--- experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip) (will make it public soon)
+-- currently, experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip) (will make it public soon)
+-- researching on computer systems overall
 
 ### projects
 
@@ -28,5 +29,9 @@ i like understanding what's happening under all that abstractions, otherwise i d
 [linkzip](https://github.com/a-mammadova/linkzip) ,
 [second-date](https://github.com/a-mammadova/second-date)
 
+### contacts
 
+[linkedin](https://linkedin.com/in/mammadovaasmar)
+[mail](mammadovaasmar@outlook.com)
+[artstation](https://www.artstation.com/leslimi)
 
