@@ -18,15 +18,19 @@ i prefer understanding what's happening under the hood rather than learning abst
 
 ### projects
 
--- [ring](https://github.com/a-mammadova/ring)
--- [slot-machine](https://github.com/a-mammadova/slot-machine)
--- [bad-game](https://github.com/a-mammadova/bad-game)
--- [ai-career-prep](https://github.com/a-mammadova/ai-career-prep)
+-- [ring](https://github.com/a-mammadova/ring) - a location based remindere app (java, spring boot)
+
+-- [slot-machine](https://github.com/a-mammadova/slot-machine) - your favorite terminal gamble game (java)
+
+-- [bad-game](https://github.com/a-mammadova/bad-game) - a 2d stealth-action game (built with love & lua)
+
+-- [ai-career-prep](https://github.com/a-mammadova/ai-career-prep) - a hackathon project that generates interview q&a for vacancies and identifies skill gaps between applicant's CV and job requirements. check [abyss widget](https://abysshub.com/widgets/290/ai-career-preparation)
+  
 
 #### private repos for now but coming soon
 
--- [linkzip](https://github.com/a-mammadova/linzkip)
--- [second-date](https://github.com/a-mammadova/second-date)
+[linkzip](https://github.com/a-mammadova/linzkip)
+[second-date](https://github.com/a-mammadova/second-date)
 
 
 
