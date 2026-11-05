@@ -1,8 +1,7 @@
 # <p align="center">hi, it's leslie</p>
 
-<img align="right" src="./devil-7.gif" width="190"/>
-
-<p align="left"> im a computer engineering student interested in software engineering and computer systems
+<img align="left" src="./devil-7.gif" width="190"/>
+<p align="right"> im a computer engineering student interested in software engineering and computer systems
 i prefer understanding what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
 </p>
 
