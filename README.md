@@ -1,4 +1,4 @@
-# hi, im leslie
+# <p align="center">hi, im leslie</p>
 
 <img align="right" src="./devil.gif" width="190"/>
 </p>
