@@ -14,7 +14,7 @@ i prefer understanding what's happening under the hood rather than learning abst
 
 ### what im working on rn
 
--- recently, im experimenting with socket programming via [linkzip (private for now)](github.com/a-mammadova/linkzip)
+-- recently, im experimenting with socket programming via [linkzip (private for now)](linkzip)
 
 
 
