@@ -1,7 +1,7 @@
 # <p align="center">hi, it's leslie</p>
 
-<img align="right" src="./devil.gif" width="190"/>
-</p>
+<img align="right" src="./devil-7.gif" width="190"/>
+
 <p align="left"> im a computer engineering student interested in software engineering and computer systems
 i prefer understanding what's happening under the hood rather than learning abstractions, otherwise i dont feel like im learning
 </p>
@@ -27,9 +27,9 @@ i prefer understanding what's happening under the hood rather than learning abst
 -- [ai-career-prep](https://github.com/a-mammadova/ai-career-prep) - a hackathon project that generates interview q&a for vacancies and identifies skill gaps between applicant's CV and job requirements. check [abyss widget](https://abysshub.com/widgets/290/ai-career-preparation)
   
 
-#### private repos for now but coming soon
+### private repos for now but coming soon
 
-[linkzip](https://github.com/a-mammadova/linzkip)
+[linkzip](https://github.com/a-mammadova/linkzip) ,
 [second-date](https://github.com/a-mammadova/second-date)
 
 
