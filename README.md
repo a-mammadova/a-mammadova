@@ -10,7 +10,7 @@ i like understanding what's happening under all those abstractions, otherwise i 
 
 ### what im working on rn
 
--- currently, experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip) (will make it public soon)
+-- currently, experimenting with socket programming in java through [linkzip](https://github.com/a-mammadova/linkzip)
 
 -- researching on computer systems overall
 
@@ -24,12 +24,6 @@ i like understanding what's happening under all those abstractions, otherwise i 
 
 -- [ai-career-prep](https://github.com/a-mammadova/ai-career-prep) - a program that generates interview q&a for vacancies and identifies skill gaps between applicant's CV and job requirements. check abyss widget [here](https://abysshub.com/widgets/290/ai-career-preparation)
   
-
-### private repos for now but coming soon
-
-[linkzip](https://github.com/a-mammadova/linkzip) ,
-[second-date](https://github.com/a-mammadova/second-date)
-
 ### contacts
 
 [linkedin](https://linkedin.com/in/mammadovaasmar)
