@@ -23,10 +23,12 @@ i like understanding what's happening under all those abstractions, otherwise i 
 -- [bad-game](https://github.com/a-mammadova/bad-game) - a 2d stealth-action game (built with love & lua)
 
 -- [ai-career-prep](https://github.com/a-mammadova/ai-career-prep) - a program that generates interview q&a for vacancies and identifies skill gaps between applicant's CV and job requirements. check abyss widget [here](https://abysshub.com/widgets/290/ai-career-preparation)
+
+-- [linkzip](https://github.com/a-mammadova/linkzip) - a minimal url shortener built with sockets 
   
 ### contacts
 
 [linkedin](https://linkedin.com/in/mammadovaasmar)
 [mail](mammadovaasmar@outlook.com)
-[artstation](https://www.artstation.com/leslimi)
+[artstation](https://www.artstation.com/leslimi) (havent uploaded my artworks yet, lol.)
 
