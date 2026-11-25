@@ -11,6 +11,7 @@ i like understanding what's happening under all those abstractions, otherwise i 
 ### what im working on rn
 
 -- currently, building a bidirectional file synchronization system called [syncy](https://github.com/a-mammadova/sync-engine)
+
 -- researching on computer systems overall
 
 ### projects
